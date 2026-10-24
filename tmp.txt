@@ -1,0 +1,2 @@
+Demo of magic command
+append at the end

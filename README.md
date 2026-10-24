@@ -62,3 +62,12 @@ jupyter lab
 ![alt text](kernel/image.png)
 
 # Super!!! - Successfully Completed (^o^)
+
+
+# C++ - Xeus-Cling
+
+> for c++, close the Jupyter lab , Ctrl+D. 
+
+sudo apt update
+
+sudo apt install -y build-essential libc6-dev
