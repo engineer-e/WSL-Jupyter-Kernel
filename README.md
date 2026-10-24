@@ -43,9 +43,14 @@ conda --version
 
 conda create -n kernels -c conda-forge jupyterlab -y
 
-## 2.5 Install bash_kernel
+## 2.5 Activate the Virtual Environment
+
+conda activate kernels
+
+## 2.6 Install bash_kernel
 
 python -m pip install --upgrade pip
 
 python -m pip install bash_kernel
+
 
