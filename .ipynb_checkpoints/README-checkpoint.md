@@ -80,4 +80,20 @@ sudo apt install -y build-essential libc6-dev
 
 # Super!!! - Successfully Completed (^o^)
 
+# Javascript kernel 
 
+conda install -c conda-forge nodejs -y
+
+conda install -c conda-forge "nodejs=20" -y
+
+node --version
+
+npm --version
+
+npm install -g ijavascript
+
+ijsinstall
+
+jupyter kernelspec list
+
+![alt text](kernel/js_kernel.png)

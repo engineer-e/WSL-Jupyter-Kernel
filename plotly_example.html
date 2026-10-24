@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <script src="https://cdn.plot.ly/plotly-3.3.0.min.js"></script>
+</head>
+<body>
+  <div id="tester" style="width:90%;height:400px;"></div>
+  <script>
+    Plotly.newPlot("tester", [{
+      x: [1, 2, 3, 4, 5],
+      y: [1, 2, 4, 8, 16],
+      type: "scatter",
+      mode: "lines+markers"
+    }], {
+      title: "Plotly.js Example",
+      xaxis: {title: "X"},
+      yaxis: {title: "Y"},
+      margin: {t: 50}
+    }, {responsive: true});
+  </script>
+</body>
+</html>
