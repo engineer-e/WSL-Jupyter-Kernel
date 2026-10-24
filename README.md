@@ -14,7 +14,6 @@ wsl --list --online
 
 wsl --install -d Ubuntu
 
-wsl --list --verbose
 
 # inside Ubuntu on WSL 2
 
