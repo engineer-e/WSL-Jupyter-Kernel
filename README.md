@@ -53,4 +53,5 @@ python -m pip install --upgrade pip
 
 python -m pip install bash_kernel
 
+python -m bash_kernel.install
 
