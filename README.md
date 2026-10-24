@@ -75,3 +75,5 @@ sudo apt install -y build-essential libc6-dev
 - [cpp 11](https://github.com/engineer-e/WSL-Jupyter-Kernel/blob/main/check_cpp_11.ipynb)
 - [cpp 14](https://github.com/engineer-e/WSL-Jupyter-Kernel/blob/main/check_cpp_14.ipynb)
 - [cpp 14](https://github.com/engineer-e/WSL-Jupyter-Kernel/blob/main/check_cpp_17.ipynb)
+
+![alt text](kernel/cpp_kernel.png)
