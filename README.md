@@ -53,4 +53,10 @@ python -m pip install --upgrade pip
 
 python -m pip install bash_kernel
 
+## 2.7 Open Jupyter Lab
 
+jupyter lab
+
+![alt text](kernel/image.png)
+
+# Super!!! - Successfully Completed (^o^)
