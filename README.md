@@ -38,3 +38,14 @@ bash Miniforge3-Linux-x86_64.sh -b -p "$HOME/miniforge3"
 eval "$("$HOME/miniforge3/bin/conda" shell.bash hook)"
 
 conda --version
+
+## 2.4 Create Virtual Environment & Install Jupyter Lab
+
+conda create -n kernels -c conda-forge jupyterlab -y
+
+## 2.5 Install bash_kernel
+
+python -m pip install --upgrade pip
+
+python -m pip install bash_kernel
+
