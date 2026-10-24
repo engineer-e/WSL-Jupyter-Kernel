@@ -47,6 +47,8 @@ conda create -n kernels -c conda-forge jupyterlab -y
 
 conda activate kernels
 
+jupyter kernelspec list
+
 ## 2.6 Install bash_kernel
 
 python -m pip install --upgrade pip
