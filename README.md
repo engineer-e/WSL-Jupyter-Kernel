@@ -96,4 +96,6 @@ ijsinstall
 
 jupyter kernelspec list
 
+- [javascript](https://github.com/engineer-e/WSL-Jupyter-Kernel/blob/main/check_js.ipynb) 
+
 ![alt text](kernel/js_kernel.png)
