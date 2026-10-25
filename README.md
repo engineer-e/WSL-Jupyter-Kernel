@@ -14,6 +14,10 @@ wsl --list --online
 
 wsl --install -d Ubuntu
 
+# WSL uninsall, If not neeed.
+
+wsl --uninstall
+
 
 # inside Ubuntu on WSL 2
 
